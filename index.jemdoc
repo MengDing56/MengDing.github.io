@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Welcome to Meng Ding's Homepage
+
+~~~
+{}{img_left}{photo.jpeg}{alt text}{150px}{200px}
+*Meng Ding （丁猛）* \n 
+Assistant Professor
+School of Mathematics \n
+Southwest Jiaotong University (SWJTU) \n
+Email: [dingmeng56@163.com dingmeng56@163.com] \n
+Links: [https://scholar.google.com.tw/citations?user=BqNY1mUAAAAJ&hl=zh-CN Google Scholar], [https://www.researchgate.net/profile/Meng-Ding-7 Researchgate], [https://github.com/MengDing56 GitHub]
+~~~
+
+== Research Interests
+
+- Image Processing
+- Tensor Analysis
+- Deep Learning
+
+== News
+- Aug. 2022: one paper has been accepted by *ACM International Conference on Information and Knowledge Management (CIKM)*.
+
+- Jul. 2022: Check out this submission [https://arxiv.org/pdf/2205.03798 "Fast and Structured Block-Term Tensor Decomposition For Hyperspectral Unmixing"]. Here we propose a new tensor decomposition-based algorithm for hyperspectral unmixing.
+
+- Dec. 2021: one paper "Tensor completion via nonconvex tensor ring rank minimization with guaranteed convergence" has been accepted by *Signal Processing*.
+
+- May 2021: one paper has been accepted by *29th European Signal Processing Conference (EUSIPCO)*, and two papers have been accepted by *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*.
+
+- Dec. 2020: one paper "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling" has been accepted by *IEEE Journal of Selected Topics in Signal Processing*.
+
+- Nov. 2020: Good news, our paper [https://mengding56.github.io/papers/20Arxiv_Nonlocal_TT_TC.pdf "Tensor train rank minimization with nonlocal self-similarity for tensor completion"] has been accepted by *Inverse Problems and Imaging*.
+
+- June 2020: Check out this submission [https://mengding56.github.io/papers/20Arxiv_SCBTD_HSR.pdf "Hyperspectral super-resolution via interpretable block-term tensor modeling"]. Here we propose a new tensor-based hyperspectral super-resolution.
+
+- Feb. 2020: We submit [https://mengding56.github.io/papers/20Arxiv_Nonlocal_TT_TC.pdf "Tensor train rank minimization with nonlocal self-similarity for tensor completion"]. In this work, we propose a new nonlocal tensor train rank-based tensor completion method by exploring the nonlocal self-similarity prior of tensor data.
+
+- Jan. 2020: J-H. Yang, X-L. Zhao, T-H. Ma, *M. Ding*, T-Z. Huang [https://mengding56.github.io/papers/20AMM_JHYang_TT.pdf "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"] has been accepted by *Applied Mathematical Modelling*.
+
+- Dec. 2019: *M. Ding*, T-Z. Huang, T-H. Ma, X-L. Zhao, J-H. Yang [https://mengding56.github.io/papers/20AMC_Nonlocal_Cauchy.pdf "Cauchy noise removal using group-based low-rank prior"] has been accepted by *Applied Mathematics and Computation*.
+
+- Aug. 2019: *M. Ding*, T-Z. Huang, T-Y. Ji, X-L. Zhao, J-H. Yang [https://mengding56.github.io/papers/20JSC_MFTTTV_TC.pdf "Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation"] has been accepted by *Journal of Scientific Computing*.
+
+
