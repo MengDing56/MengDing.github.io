@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{Publications.html}, nofooter
+= Publications
+
+== Journal Articles (Submitted)
+- *Meng Ding*, Xiao Fu, Xi-Le Zhao, "[https://ieeexplore.ieee.org/abstract/document/10022317 Fast and Structured Block-Term Tensor Decomposition For Hyperspectral Unmixing]", 2022. [https://arxiv.org/pdf/2205.03798 (PDF)]
+
+== Journal Articles (Published)
+
+- *Meng Ding*, Ting-Zhu Huang, Xi-Le Zhao, Tian-Hui Ma, "[https://www.sciencedirect.com/science/article/abs/pii/S016516842100462X Tensor completion via nonconvex tensor ring rank minimization with guaranteed convergence]", Signal Processing, 2022.
+
+- *Meng Ding*, Xiao Fu, Ting-Zhu Huang, Jun Wang, Xi-Le Zhao, "[https://ieeexplore.ieee.org/abstract/document/9300193 Hyperspectral super-resolution via interpretable block-term tensor modeling]", IEEE Journal of Selected Topics in Signal Processing, 2020.
+
+- *Meng Ding*, Ting-Zhu Huang, Xi-Le Zhao, Michael K. Ng, Tian-Hui Ma, "[https://arxiv.org/abs/2004.14273 Tensor train rank minimization with nonlocal self-similarity for tensor completion]", Inverse Problems and Imaging, 2020. [https://mengding56.github.io/papers/20Arxiv_Nonlocal_TT_TC.pdf (PDF)]
+
+- *Meng Ding*, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Jing-Hua Yang, "[https://www.sciencedirect.com/science/article/abs/pii/S0096300319309634 Cauchy noise removal using group-based low-rank prior]", Applied Mathematics and Computation, 2020. [https://mengding56.github.io/papers/20AMC_Nonlocal_Cauchy.pdf (PDF)] [https://mengding56.github.io/codes/GBLR.rar (Code)]
+
+- *Meng Ding*, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Jing-Hua Yang, "[https://link.springer.com/article/10.1007/s10915-019-01044-8 Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation]", Journal of Scientific Computing, 2020. [https://mengding56.github.io/papers/20AMC_Nonlocal_Cauchy.pdf (PDF)] [https://mengding56.github.io/codes/MF-TTTV.rar (Code)]
+
+- *Meng Ding*, Ting-Zhu Huang, Si Wang, Jin-Jin Mei, Xi-Le Zhao, "[https://www.sciencedirect.com/science/article/abs/pii/S0096300318307288 Total variation with overlapping group sparsity for deblurring images under Cauchy noise]", Applied Mathematics and Computation, 2020. [https://mengding56.github.io/papers/19AMC_OGSTV_Cauchy.pdf (PDF)] [https://mengding56.github.io/codes/Cauchy_OGSTV_debluring.rar (Code_debluring)] [https://mengding56.github.io/codes/Cauchy_OGSTV_denoising.rar (Code_denoising)]
+
+- Jing-Hua Yang, Xi-Le Zhao, Tian-Hui Ma, *Meng Ding*, Ting-Zhu Huang, "[https://www.sciencedirect.com/science/article/pii/S0307904X20300391 Tensor train rank minimization with hybrid smoothness regularization for visual data recovery]", Applied Mathematical Modelling, 2020. [https://mengding56.github.io/papers/20AMM_JHYang_TT.pdf (PDF)]
+
+- Jing-Hua Yang, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, *Meng Ding*, "[https://www.sciencedirect.com/science/article/pii/S0377042719302766 Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization]", Journal of Computational and Applied Mathematics, vol. 363, pp. 124-144, 2020. [https://mengding56.github.io/papers/20JCAM_JHYang_RS.pdf (PDF)]
+
+== Conference Papers
+
+- Jing-Hua Yang, Chuan Chen, Hong-Ning Dai, *Meng Ding*, Le-le Fu, Zibin Zheng, "[https://dl.acm.org/doi/abs/10.1145/3511808.3557349 Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view]", in ACM International Conference on Information and Knowledge Management (ICKM), 2022.
+
+- *Meng Ding*, Xiao Fu, Xi-Le Zhao, "[https://ieeexplore.ieee.org/abstract/document/9616213 Constrained Block-Term Tensor Decomposition-Based Hyperspectral Unmixing via Alternating Gradient Projection]", in IEEE European Signal Processing Conference (EUSIPCO), 2021, pp. 1060-1064.
+
+- *Meng Ding*, Ting-Zhu Huang, Xi-Le Zhao, Jie Lin, Jing-Hua Yang, "[https://ieeexplore.ieee.org/abstract/document/9554525 Factor-Regularized Nonnegative Tensor Decomposition for Blind Hyperspectral Unmixing]", in IEEE International Geoscience and Remote Sensing Symposium (IGRASS), 2021, pp. 3833-3836.
+
+- Jie Lin, Ting-Zhu Huang, Xi-Le Zhao, *Meng Ding*, Yong Chen, Tai-Xiang Jiang, "[https://ieeexplore.ieee.org/abstract/document/9554515 A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images]", in IEEE International Geoscience and Remote Sensing Symposium (IGRASS), 2021, pp. 4656-4659.
+
+- Tian Lu, Xi-Le Zhao, Yu-Bang Zheng, *Meng Ding*, Xiao-Tong Li, "[https://ieeexplore.ieee.org/abstract/document/8969547 Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity]", in IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2019, pp. 1-5. (*Oral*) [https://mengding56.github.io/papers/20GlobalSIP_TianLu.pdf (PDF)]
